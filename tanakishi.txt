@@ -1,0 +1,428 @@
+Tarakilishi au Kompyuta ni mashine au chombo cha kielektroniki chenye uwezo wa kupokea na kukusanya taarifa (data), na halafu kuzishughulikia kulingana na kanuni za programu ya kompyuta inayopewa. Inafuata hatua za mantiki katika kazi hii. Hapo hutoa matokeo ya kazi hiyo na namna ilivyoendeshwa, pamoja na kutoa matokeo ya kitu kilichofanyika, yaani kinachoonekana (Information) kwa haraka.
+
+Sifa za kompyuta
+Wepesi
+Kompyuta inafanya kazi kwa wepesi wa hali ya juu kiasi kwamba unaweza kutafuta kitu kwa muda wa sekunde chache tu, kitu ambacho kama utakitafuta kupitia chombo kingine unaweza kuchukua wakati mrefu mpaka kukipata, na pengine usikipate, kwa mfano unaweza kufanya hesabu ngumu kwa muda mchache kuliko kutumia akili yako.
+
+Pia unaweza kutafuta somo lolote kupitia intaneti kwa kutumia muda mfupi kulipata somo hilo kuliko ungetumia marejeo ya vitabu vya kuchapishwa.
+
+Ubora
+Kompyuta inafanya kazi kwa ubora zaidi bila kuonyesha udhaifu na makosa ya aina yoyote, na kama itabainika ya kwamba kuna makosa yametendeka kwenye kazi yako, kompyuta kabla ya kuendelea kufanya kazi inakuonyesha kwamba upo katika makosa na kukutaka mara moja kurekebisha makosa hayo kwa kukuletea tangazo lenye sehemu kadhaa za kuchagua, ama kuendelea na kazi yako kama ilivyo au kuifanyia marekebisho. Kwa mfano unapotaka kufuta kitu kutoka kwenye kompyuta, kompyuta kabla ya kutekeleza amri hiyo inakuletea tangazo na kukuuliza ya kwamba, ni kweli una uhakika wa kutaka kufuta kitu hicho au umefanya hivyo bila kukusudia?
+
+Pia kompyuta imekuandalia kila kitu unachotaka kukifanya ndani yake, kutegemea na malengo yako mwenyewe.
+
+Pia kompyuta inazingatiwa ni mwalimu au muelekezaji, kwani inakuelekeza jinsi gani unaweza kufanya kazi yako kwa ukamilifu. Pia ndani ya kompyuta kuna kitu kinachoitwa kisaidizi (help) ambacho kinatumika kwa ajili ya kufanya utafiti wa kitu fulani ili kufahamu matumizi na njia zake.
+
+Uwezo mkubwa wa kuhifadhi taarifa
+Miongoni mwa mambo muhimu ndani ya kompyuta ni kupatikana sehemu kubwa ya kuhifadhia taarifa kwa amani na bila kuzipotea.
+
+Kazi za kompyuta
+Kazi za msingi zinazofanyika ndani ya kompyuta ni:
+
+Kazi za uingizaji (Input).
+Kazi za uendeshaji au ufanyishaji (Processing).
+Kazi za utoaji (Output).
+Kazi za uhifadhi (Storage)
+Kuhifadhi taarifa
+Kama ilivyotanguliwa kusemwa hapo awali, kuwa kompyuta ni moja ya vyombo vyenye uwezo mkubwa wa kuhifadhi vitu, na mpaka hivi sasa kuna vifaa ambavyo vinauwezo wa kuifadhi taafira kwa mfano wa vifaa ivo ni diski mweko.
+
+Kuonyesha matokeo ya vitu (Data na Information)
+Kutokana na maendeleo, elimu ya teknolojia imeweza kurahisisha kazi nyingi ambazo tulikuwa tunazifanya kupitia vyombo mbalimbali. Kila chombo kilikuwa na kazi yake maalumu, tofauti na kompyuta ambapo mtu anaweza kuanzisha au kutengeneza kitu na wakati huohuo anaweza kukionyesha kwa kutumia kompyuta yenyewe, yaani kuonyesha ufanisi na sura nzuri ya kitu kilichofanyika.
+
+Tofauti kati ya data na habari (information)
+Data
+Ni ibara ya taarifa au maelezo, na inaweza kuonekana kwa sura ya maandishi, michoro, picha, namba, alama, nembo, sauti au lugha ya maandishi, au sauti pamoja na picha.
+
+Habari (Information)
+Ni kazi inayotokana na taarifa au maelezo (Data) baada ya kwisha kupangiliwa na kufanyiwa kazi hadi kutoa matokeo kamili ya kazi hiyo, pamoja na kuleta kitu chenye kufahamika na chenye faida. Ni kazi iliyokwisha kutengenezwa hadi ikawa katika hali ya kueleweka.
+
+Historia ya Tarakilishi
+Makala kuu: Historia ya tarakilishi
+Historia ya tarakilishi inasimulia hatua za maendeleo ya tarakilishi (kompyuta) toka aina ya kizamani hadi aina ya kisasa zaidi. Hatua hizo zinachukuliwa kama vizazi vya Tarakilishi.
+
+Kimsingi tarakilishi ni kifaa chochote kinachomsaidia binadamu kufanya hesabu. Zipo tarakilishi za aina mbili: za kianalojia (za umakanika) na za kidijiti (za elektroniki). Za kwanza hazitumii umeme, na ndizo ambazo zilianza kabla ya tarakilishi za kidijiti (zinazotumia umeme).
+
+Aina za kompyuta
+Kuna aina kuu tatu za kompyuta, nazo ni kama ifuatavyo:
+
+Kompyuta Dijitali
+Ni kompyuta zinazotumika kwa ajili ya kufanyia hesabu pamoja na kazi za kutumia akili.
+
+Kompyuta Analogu
+Ni kompyuta zinazotumika kwa ajili ya kupokea taarifa (Data) kama zile za kusomea hali ya hewa, kupimia mishipa ya damu na kupimia kiwango cha chumvi kwenye maji.
+
+Kompyuta Mahuluti (Hybrid Computers)
+Kompyuta hizi zinafanana na zile zilizotangulia kutajwa hapo mwanzo, nazo zinatumika kwa ajili ya kutafutia taarifa (Data) kutoka kwa binadamu moja kwa moja na kupitia mandishi na vipimo.
+
+Aina za Tarakilishi dijitali
+Tarakilishi inaweza kuainishwa kulingana na madaraja yafuatayo:
+
+Ukubwa wa umbo
+Dhumuni, na
+Utendaji kazi
+Kwa kutumia msingi wa ukubwa wa umbo, tarakilishi zinaweza kuwekwa katika makundi yafuatayo:
+
+Tarakilishikuu
+Tarakilishi Kiunzikuu
+Tarakilishi Dogo, na
+Tarakilishi Mikro
+Tarakilishikuu (Super Computer)
+Tarakilishi hii inashughulikia kiwango kikubwa kabisa cha hesabu za sayansi.
+
+Inahifadhiwa katika chumba chenye mfumo poza maalum ambao unaunganisha uyoyozwaji hewa na kimiminiko poza.
+
+Tarakilishikuu za miaka ya 1970 zilitumia prosesa (chakataji) chache. Katika miaka ya 1990, zikatokea mashine zitumiazo maelfu ya prosesa. Hadi mwishoni mwa karne ya 20 Tarakilishikuu zitumiazo makumi elfu ya prosesa zikawa ni kawaida. Tarakilishi za karne ya 21 zinaweza kutumia prosesa zaidi ya 100,000 (baadhi zikitumia vizio vyenye kuonesha kwa picha) zikiunganishwa na miungo kasi.
+
+Hadi Juni 2013, Tarakilishikuu iitwayo Tianhe-2 ya Uchina, ndiyo yenye kasi kubwa zaidi duniani kwa 33.86 petaFLOPS (FLoating Point Operations Per Second).
+
+
+Tarakilishikuu Blue Gene/P iliyopo Maabara ya Kitaifa ya Argonne
+Tarakilishikuu iitwayo Blue Gene/P iliyopo Maabara ya Kitaifa ya Argone inaendesha zaidi ya prosesa 250,000, ikitumia uyoyozwaji hewa wa kawaida wa kituo cha data, ina makundi 72 ya makabati yanayounganishwa na mtandao nuru wa kasi kubwa.
+
+Mifumo ya Tarakilishi zitumiazo jumla kubwa ya prosesa kwa kawaida zinatumia moja ya njia mbili: Njia mojawapo (kwa mfano, kwenye ukokotozi msambao) idadi kubwa ya Tarakilishi peke (kwa mfano, Tarakilishi mpakato [laptop]) zinasambazwa kwenye mtandao (kwa mfano, intaneti) na kutenga kiasi au muda wote kutatua tatizo fulani kwa pamoja; kila Tarakilishi inapokea na kukamilisha kazi nyingi ndogo ndogo, na kutoa ripoti ya matokeo kwa Tarakilishikuu ambayo inaunganisha matokeo ya kazi kutoka Tarakilishi zote kuwa utatuzi wa jumla.
+
+Katika njia nyingine, idadi kubwa ya prosesa zilizoteuliwa zinawekwa kwa ujirani mkubwa kabisa (kwa mfano, kwenye Konga tarakilishi); hii inaokoa muda mwingi kuhamisha data kuzunguka pande zote na inafanya urahisi kwa prosesa kufanya kazi pamoja (kuliko katika kazi zilizotenganishwa), kwa mfano katika usanifumuundo Wavu na Hayipakyubu.
+
+Matumizi ya prosesa zenye-kokwa-nyingi ikiunganishwa na uwekaji-chini-ya-makao-makuu ni mwelekeo unaoibuka; mtu anaweza kufikiria hiki kitu kama konga dogo (prosesa zenye-kokwa-nyingi katika smatifoni, tableti, tarakilishi mpakato na kadhalika) ambalo kwa pamoja linategemea na kuchangia kwenye kundi.
+
+Tarakilishikuu inachukua nafasi muhimu katika sayansi ya mkokotoo, na zinatumika kwa mapana kwenye kazi makini za mkokotoo katika nyanja mbalimbali, ikiwa ni pamoja na makanika ya kwanta, utabiri wa hali ya hewa, tafiti za tabia nchi, chunguzi za mafuta na gesi, fanyizo za molekuli (ukokotozi wa maumbile na tabia za michanganyiko ya kemikali, makromolekuli za biolojia, polima, na fuwele), na uigaji wa Asili (kama vile uigaji wa nyakati za mwanzo za ulimwengu, erodainamiki za ndege na vyombo vya anga, ulipuaji wa silaha za nyuklia, na mchanganyiko wa nyuklia).
+
+Pote pote katika historia ya Tarakilishikuu, zimekuwa muhimu katika nyanja ya kukabili Elimu ya mficho.
+
+Kipimo cha utendaji wa Tarakilishikuu
+Kwa ujumla Tarakilishikuu imelenga katika upeo wa ukokotozi uwezo kuliko ukokotozi ujazo.
+
+Ukokotozi uwezo hasa unafikiriwa kwamba ni kutumia uwezo wa mwisho wa ukokotozi kutatua tatizo moja kubwa katika kiwango kifupi cha muda.
+
+Mara nyingi mfumo uwezo unaweza kutatua tatizo lenye ukubwa au ugumu ambao hakuna Tarakilishi nyingine inayoweza. Kwa mfano, matumizi magumu sana ya uigaji hali ya hewa.
+
+Kwa kupingana na hili, ukokotozi ujazo moja kwa moja unafikirika kutumia nguvu ya Tarakilishi yenye athari madhubuti za gharama kwa ajili ya kutatua kiwango kidogo cha matatizo makubwa au kiwango kikubwa cha matatizo madogomadogo. Kwa mfano, maombi ya watumiaji wengi kwenye databezi au nywila. Miundo ya mashine zitumikazo kusaidia watumiaji wengi kama utaratibu wa kazi za kila siku zinaweza kuwa na ukubwa mwingi lakini hazifikiriwi moja kwa moja kama Tarakilishikuu, ikichukuliwa kwamba hazitatui tatizo moja kubwa na gumu sana.
+
+
+Kasi za juu za Tarakilishikuu. Kasi kwenye alamakipimamwendo zaidi ya miaka 60.
+Kwa ujumla, kasi za Tarakilishikuu zinapimwa na kuwekwa alama teule kwa FLOPS (Floating Point Operations Per Second), na si kwa mbadala wa MIPS; ni kwamba, hii ni “Instructions per second” kama inavyohusika na Tarakilishi za madhumuni-ya-jumla. Vipimo hivi kwa kawaida vinatumika kwa pamoja na viambishi awali vya SI kama vile Tera-, ikiunganishwa katika kifupisho “TFLOPS” (1012 FLOPS, inatamkwa teraflops), au peta-, ikiunganishwa kwenye kifupisho “PFLOPS” (1015 FLOPS, inatamkwa petaflops). Kwa “Kipimopeta” Tarakilishikuu zinaweza kuchakata kwadrilioni moja (milioni kwa kipawa cha nne (Uingereza) au milioni kwa kipawa cha tano (Marekani)) (1015) (1000 trilioni) FLOPS. “Kipimoexa” ni kuwa ukokotozi tendaji upo kwenye nafasi ya exaflops. Exaflop ni kwintilioni moja (1018) FLOPS (teraflops milioni moja).
+
+Si namba moja inayoweza kutoa picha ya utendaji mzima wa mifumo ya Tarakilishi, hata hivyo lengo la alama teule ya Linpark ni kukadiria ni kwa kasi ipi Tarakilishi inaweza kutatua matatizo ya namba na hii inatumika kwa mapana zaidi katika tasinia. Vipimo vya FLOPS ni eidha vimedondolewa kulingana na nadharia ya utendaji wa kiwango mbadiliko cha prosesa (kizalishwacho kutoka ainisho la mtengenezaji wa prosesa na kuonyeshwa kama “Rpeak” katika orodha ya TOP500) ambacho kiujumla hakipatikani wakati wa kufanya kazi halisi, au uelewa patikanifu, uzalishwao kutokana na alama teule za LINPARK na kuonyeshwa kama “Rmax” katika orodha ya TOP500. Alama teule za LINPARK hasa hasa zinatekeleza changanuzi za LU ya solo kubwa. Utendaji wa LINPARK unatoa ishara kiasi ya utendaji kwa baadhi ya matatizo ya dunia halisi, lakini si lazima ifananie na masharti ya utendaji kazi ya Tarakilishikuu nyingi nyinginezo, ambapo kwa mfano zinaweza kuhitaji zaidi kiwango kikubwa cha uwezo wa vizio vya kutunzia kumbukumbu, au zinaweza kuhitaji utendaji bora wa ukokotozi wa namba kamili, au zinaweza kutaka utendaji wa juu wa mifumo ya I/O ili kupata viwango vya juu vya utendaji.
+
+Orodha ya TOP500
+
+Chati ya pai inayoonyesha ushiriki wa nchi kutumia Tarakilishikuu mpaka Novemba 2015
+Tangu mwaka 1993, Tarakilishikuu zenye kasi kubwa zimekuwa zikiwekewa safu katika orodha iitwayo TOP500.
+
+Orodha hii inaonyesha Tarakilishikuu yenye kasi iliyopo katika muda wowote unaotakiwa.
+
+Orodha ya TOP500 inaonyesha Tarakilishikuu yenye kasi iliyopo ni ile ambayo nchi nyingi duniani kote zinashiriki kuitumia.
+
+Mradi wa TOP500 unaweka safu na maelezo ya mifumo ya Tarakilishi 500 zenye nguvu zaidi duniani.
+
+Mradi ulianzishwa mwaka 1993 na unachapisha orodha iliyokuwa ya kisasa ya Tarakilishikuu mara mbili kwa mwaka.
+
+Orodha ya kwanza ya kisasa mara zote inatukia na Mkutano wa Kimataifa wa Ukokotozimkuu mwezi Juni. Na ya pili huwakilishwa mwezi Novemba katika Mkutano wa Ukokotozimkuu wa ACM/IEEE. Mradi huu umelenga kutoa msingi wa kutumainiwa wa ufuatiliaji na ugunduaji mielekeo ya ukokotozi wa kasi ya juu na kuweka safu katika misingi ya HPL. Ni utekelezaji unaowezekanika wa utendaji wa hali ya juu wa alama teule ya LINPARK ulioandikwa kwenye fortran ya Tarakilishi za distributed-memory.
+
+Orodha ya TOP500 inakusanywa na Jack Dongara wa Chuo kikuu cha Tennessee, knoxville, Erich Strohmaier na Horst Simon wa Maabara ya Kitaifa ya NERSC/Lawrence Berkeley (na, kutoka 1993 mpaka kifo chake mwaka 2014, Hans Meuer wa Chuo kikuu cha Mannheim, Ujerumani.)
+
+Ifuatayo ni orodha ya hivi karibuni ya Tarakilishi ambayo inapatikana juu kabisa ya orodha ya TOP500, na “kasi ya juu” inapatikana kama makadirio ya “Rmax”
+
+
+Tarakilishi 20 za juu duniani hadi Juni 2013
+Mwaka	Tarakilishikuu	Kasi ya juu
+(Rmax)	Mahali
+2013	NUDT Tianhe-2	33.86 PFLOPS	Guangzhou, Uchina
+2012	Cray Titan	17.59 PFLOPS	Oak Ridge, U.S.
+2012	IBM Sequoia	17.17 PFLOPS	Livermore, U.S.
+2011	Fujitsu Tarakilishi K	10.51 PFLOPS	Kobe, Japani
+2010	Tianhe-IA	2.566 PFLOPS	Tianjin, Uchina
+2009	Cray Jaguar	1.759 PFLOPS	Oak Ridge, U.S.
+2008	IBM Roadrunner	1.026 PFLOPS	Los Alamos, U.S.
+1.105 PFLOPS
+Historia ya Tarakilishikuu
+Historia ya ukokotozi mkubwa sana inarudi nyuma hadi miaka ya 1960 wakati mfululizo wa tarakilishi katika Control Data Corporation (CDC) ulibuniwa na Seymour Cray kutumia ubunifu vumbuzi na usambamba ili kufanikisha kufikia kilele cha ukokotoaji bora.
+
+Tarakilishi CDC6600 iliyoachiwa mwaka 1964 inafikirika kuwa ndiyo Tarakilishikuu ya kwanza.
+
+Cray alihama CDC mwaka 1972 na kwenda kuunda kampuni yake. Miaka minne baadaye, aliwasilisha tarakilishi iitwayo Cray-1 iliyokuwa na kasi ya 80MHz mwaka 1976, ikawa moja ya tarakilishikuu yenye mafanikio sana katika historia ya tarakilishi.
+
+Tarakilishi Cray-2 iliachiwa mwaka 1985 ambayo ilikua ni tarakilishi ya prosesa 8 yenye kutumia kimiminiko poza na mfumo poza wa maji yanayosukumwa kwa nguvu ya shinikizo kupoza vihunzi huru vyake wakati ikitumika.
+
+Cray-2 ilifanya kazi kwa kasi ya 1.9gigaflops ikawa Tarakilishi yenye kasi kubwa duniani hadi mwaka 1990.
+
+
+Cray-1 imetunzwa katika jumba la makumbusho la Deutsches.
+Wakati tarakilishikuu za miaka ya 1980 zikitumia prosesa chache tu, miaka ya 1990, mashine zilizotumia maelfu ya prosesa zikaanza kuonekana kote Marekani na Japani, na kuweka rekodi mpya za utendaji wa mkokotoo.
+
+Tarakilishikuu iitwayo Numerical Wind Tunnel kutoka kampuni ya Fujitsu ilitumia prosesa za Vekta 166 na kujiweka nafasi ya juu mwaka 1994 kwa kasi ya juu ya 1.7gigaflops kwa prosesa.
+
+Intel Paragon inawezekana ilikuwa na prosesa za Intel i860 kuanzia 1000 hadi 4000 katika umbo mbalimbali, na kutambulika kuwa ndiyo na kasi zaidi duniani mwaka 1993. Paragon ilikuwa ni mashine ya MIMD ambayo inaunganisha prosesa kupitia wavu wa vimbe mbili wenye kasi kubwa, ulioruhusu kazi zifanyike katika chomozo tofauti, kwa kuwasiliana kupitia Kipengee cha Upitishaji Jumbe.
+
+SR2201 ilipata utendaji wa juu wa 600 megaflops mwaka 1996 kwa kutumia prosesa 2048 zilizounganishwa kupitia mtandao wa mwamba wa vimbe tatu wenye kasi.
+
+Matumizi ya nishati na mbinu za kudhibiti joto kwa Tarakilishikuu
+Tarakilishikuu hasa inatumia kiwango kikubwa cha nguvu ya umeme, na takribani kiwango chote hiki kinageuzwa kuwa joto, inahitaji upoozaji. Kwa mfano Tianhe-1A inatumia megawati 4.04 za umeme.
+
+Gharama za kuwasha na kupoza mashine zinaweza kuwa kubwa, kwa mfano megawati 4, katika bei ya dola 0.10 kwa kilowati, ni jumla ya dola 400 kwa saa au dola milioni 3.5 kwa mwaka.
+
+Mbinu za udhibiti joto ni suala kubwa kwenye vifaa vya elektroniki vyenye sehemu nyingi, na linaathiri mifumo ya tarakilishi yenye nguvu sana kwa namna tofautitofauti. Nguvu ya Mpango wa Joto na Mtapanyo wa Nguvu ya CPU vilitoa kwa ukokotozi-mkubwasana kuzipita zile mbinu za kizamani za upoozeshaji tarakilishi.
+
+Uwekaji wa maelfu ya prosesa pamoja bila kuzuilika unazalisha kiwango kikubwa cha msongamano wa joto ambao unatakiwa ushughulikiwe. Cray-2 ilipoozwa kwa kimiminiko poza na mfumo poza wa maji yanayosukumwa kwa nguvu ya shinikizo kupoza vihunzi huru vyake wakati ikitumika. Hata hivyo njia hii ya upoozeshaji kwa kutumia kimiminiko haikua sahihi kiutendaji kwa mifumo ya kabati-nyingi zitumiazo prosesa zisizo-kwenye-rafu, na katika System X, mfumo maalum wa upoozeshaji unaohusisha uyoyozwaji hewa na kimiminiko poza ulianzishwa kwa mwungano na kampuni ya Liebert.
+
+Katika mfumo wa Blue Gene, IBM kwa makusudi kabisa walitumia prosesa za nguvu ya chini ili kushughulikia msongamano wa joto. Kwa upande mwingine, Power775 kutoka IBM, iliyoachiwa mwaka 2011, ina elementi zilizowekwa karibu sana ambazo zinahitaji upoozeshaji wa kutumia maji. Mfumo wa Aquasar kutoka IBM kwa upande mwingine unatumia upoozeshaji wa kutumia maji moto ili kufanikisha ufanisi wa nishati. Maji yanatumiwa pia kupasha majengo.
+
+Ufanisi wa nishati wa mifumo ya tarakilishi kwa jumla unapimwa kimbadala na “FLOPS kugawanya kwa wati”. Mwaka 2008, Roadrunner kutoka IBM ilifanya kazi kwa 376 MFLOPS/wati. Mwezi Novemba mwaka 2010, Blue Gene/Q ilifikia 1684 MFLOPS/wati. Mwezi Juni wa 2011, sehemu 2 za juu kwenye orodha ya Green500 zilishikwa na mashine za Blue Gene, za New York (kila moja ikifikia 2097 MFLOPS/wati), ambapo konga DEGIMA ya Nagasaki ikichukua nafasi ya tatu ikiwa na 1375 MFLOPS/wati.
+
+Matumizi ya tarakilishikuu
+Hatua za matumizi ya tarakilishikuu zinaweza kuwekwa kwa kifupi katika jedwali lifuatalo:
+
+Muongo	Matumizi na Tarakilishi husika
+1970s	Utabiri wa hali ya hewa, tafita za erodainamiki (Cray-1).[1]
+1980s	Changanuzi za Probabilistiki,[2] Ufanyizaji kinga za mnururisho[3] (CDC Cyber).
+1990s	Mabavu ya uvumbuzi wa maneno ya siri (EFF DES cracker).[4]
+2000s	Uigaji majaribio ya nyuklia wa 3D kama mbadala wa utendaji kisheria wa mkataba wa kuzuia ueneaji wa silaha za nyuklia. (ASCI Q).[5]
+2010s	Uigaji elimumiendo ya molekuli (Tianhe-1A)[6]
+Tarakilishi Blue Gene/P ya IBM imekua ikitumika kuigiza seli neva bandia katika ulinganifu wa makadirio ya asilimia moja ya tabaka la nje ya ubongo wa binadamu.
+
+Utabiri wa hali ya hewa wa kisasa pia unategemea tarakilishikuu. Idara ya Taifa ya Usimamiaji masuala ya Bahari na Hewa inatumia tarakilishikuu kuchakacha mamia ya mamilioni ya chunguzi kusaidia kufanya tabiri za hali ya hewa ziwe sahihi zaidi.
+
+Mwaka 2011, changamoto na magumu katika kusukuma mgubiko wa matumizi ya tarakilishikuu viliwekewa msisitizo na kampuni ya IBM kutelekeza mradi wake wa tarakilishi Blue Waters ya kipimopeta.
+
+Tafiti na mwelekeo wa kimaendeleo
+
+Mchoro wa vimbe 3 (3D) wa miunganiko ya Torus utumikao na mifumo kama vile Blue Gene, Cray XT3, n.k.
+Kulingana na kasi ya sasa ya maendeleo, wataalamu wa tasnia wanakadiria kwamba kufikia mwaka 2018 tarakilishikuu zitafikia exaflops 1 (1021) (FLOPS kwintilioni moja). Wachina wameanza mipango wawe na tarakilishikuu ya exaflop 1 inayofanya kazi kufikia mwaka 2018 kwa kutumia usanifumuundo wa prosesa yenye kokwa nyingi za Intel MIC, ambayo ni itikio la kampuni ya Intel kwa mifumo ya GPU, SGI wamepanga kupata ongezeko la mara 500 katika utendaji kufikia 2018, ili waweze kupata exaflop moja. Sampuli za visilikoni vya MIC vyenye kokwa 32 ambavyo vinaunganisha vizio vya mchakato vekta na CPU ya kawaida zimekuwa zikipatikana. Serikali ya India pia imeanzisha lengo kwa tarakilishikuu kuwa na mfiko wa exaflop, ambalo wanatarajia kulifikia mwaka 2017.
+
+Erik P. Benedictis wa maabara za taifa za Sandia ametoa nadharia kwamba tarakilishi ya zettaflop (1021) (FLOPS sextilioni moja) inahitajika ili kufanikisha ufanyizaji hali ya hewa kamili, ambayo inaweza kujumuisha mzunguko wa muda wa wiki mbili kiusahihi. Mifumo kama hii pengine inaweza kutengenezwa kwenye miaka ya 2030.
+
+Tarakilishi kiunzikuu (Mainframe Computers)
+
+Tarakilishi kiunzikuu IBM System z9
+--Sehemu hii inaweza kuwa na maelezo ya kiufundi zaidi na maneno mengine kukosa tafsiri ya Kiswahili kwa wasomaji wengi kuelewa. Tafadhali saidia kuboresha sehemu hii iweze kueleweka zaidi kwa wasomaji wa kawaida kwa kutoa tafsiri ya maneno yaliyotumika humu, au kutoa maelezo mepesi bila kuondoa maana halisi.-- Tarakilishi kiunzikuu ni tarakilishi ambazo kimsingi zinatumiwa na kampuni na mashirika ya serikali kwa matumizi makinifu, kuchakata data nyingi kama vile sensa, takwimu za viwanda na biashara, upangaji rasilimali za kazi, na uchakatuaji amali.
+
+Mtajo huu kwa asili unanena kuhusu makabati makubwa yanayotunza Bongo kuu na Kizio kikuu cha kumbukumbu kwa tarakilishi za awali.
+
+Baadaye, msemo huu ukatumika kubainisha mitambo yenye nguvu ya kibiashara dhidi ya ile yenye nguvu ndogo. Miundo mikubwa ya nyingi ya Mifumo ya Tarakilishi ilianzishwa miaka ya 1960, lakini ikaendelea kukua.
+
+Tarakilishi kiunzikuu pia inajulikana kama “Chuma Kubwa (Big Iron)” ni ndogo na haina nguvu sana kama Tarakilishikuu katika uwezo wa ukokotoaji. Inahusika na utunzaji wa faili na kumbukumbu kubwa sana.
+
+Maelezo
+Miundo ya tarakilishi kiunzikuu ya kisasa kwa jumla inatafsiriwa kwa kasi ya mkokotoo kazi-moja (hasa inatafsiriwa kama kiasi cha MIPS au FLOPS katika suala la hesabu za kiwango mbadiliko), na zaidi kwa
+
+Uhandisi wa ndani wa ziada na matokeo makubwa ya ulinzi na kutegemeka.
+Upatanifu hasahasa ulio nyuma kimaendeleo na programu za zamani.
+Vima vya matumizi ya juu ya mikokotoo na vifaa vya tarakilishi kuhimili idadi kubwa ya kazi katika muda fulani.
+Uthabiti wao na kutegemeka vinawezesha hii mitambo kufanya kazi bila kukatizwa kwa vipindi virefu.
+
+Uboreshaji wa programu kawaida unahitaji utengenezaji wa mfumo endeshi au sehemu zake, na hizi si vivuruga pale tu unapotumia vifaa vya kutengeneza hali ya kweli ambayo si bayana kama vile mfumo endeshi uitwao z/OS na mfumo endeshi uitwayo Parallel Sysplex zote za IBM, au Unisys ya XPCL, ambayo inahimili ushirikishaji wa kazi kubwa hivi kwamba mfumo mmoja unaweza kuchukua kazi za mwingine wakati unapokuwa unajiweka sawa.
+
+Tarakilishi kiunzikuu zinatafsiriwa kwa upatikanaji mkubwa, moja ya sababu kubwa ya maisha marefu, wakati ambapo zenyewe hasa zinatumika katika matumizi ambayo zikiacha kutumika itakuwa gharama na ni janga kubwa. Huu msemo tegemezi, patikanivu, na inayohudumika (reliability, availability and serviceability = RAS) unatafsiri tabia za tarakilishi kiunzikuu.
+
+Mipango na utekelezaji stahiki unahitajika ili kutumia hivi vitu, na kama utekelezaji hautakuwa sawa, unaweza kutumika kuzuia faida zipatikanazo. Kwa nyongeza, tarakilishi kiunzikuu zipo salama zaidi kuliko aina nyingine za tarakilishi: dhaifu za kanzi data za NIST National Institute of Standards and Technology, US-CERT, inawekea kima tarakilishi kiunzikuu za desturi kama vile Zseries za IBM, Unisys Dorado na Unisys Libra kama miongoni mwa zile ambazo zipo salama zaidi zikiwa na madhaifu machache madogomadogo zikilinganishwa na maelfu ya Vyeneo (Windows), Linux na Unix.
+
+Mwishoni mwa miaka ya 1950, tarakilishi kiunzikuu nyingi zilikuwa hazina kipengee ingiliano kamilifu. Zilikubali kundi la panchi kadi, mikanda ya karatasi, au mikanda ya sumaku kuhamisha data na programu. Zilifanya kazi katika mtindo wa bechi kuhimili shughuli za nyuma ya ofisi kama vile tozo za wateja, na vituo ingiliano vinavyohimiliwa takribani maalum kwa matumizi zaidi kuliko uendelezaji wa programu. Vifaa kama Mashine chapa na Teleprinta vilikuwa pia viweko amrisho vya kawaida kwa waendeshaji mifumo mpaka miaka ya 1970, ingawaje kwa kiasi kikubwa vilipandikiziwa vibao mbonyezo na vifaa onyeshi.
+
+Mwanzoni mwa miaka ya 1970, tarakilishi kiunzikuu nyingi zilipata kipengee muingiliano cha watumiaji na kufanya kazi kama tarakilishi inayotoa huduma kwa tarakilishi nyingine ndogo zilizoungwa nayo, zikihimili mamia ya watumiaji wakati huohuo pamoja na mchakatuo wa bechi. Watumiaji walipata fursa ya kuingia kwa kutumia vituo maalumu, au, baadaye, kwa kutumia tarakilishi binafsi zilizozatitiwa na programu igizaji vituo.
+
+Kufikia miaka ya 1980, tarakilishi kiunzikuu nyingi zilihimili vituo vyenye hali ya upicha, na vituo igizaji, lakini si kipengee cha upicha cha watumiaji.
+
+Mpango huu wa ukokotozi wa mtumiaji wa mwisho ulifikia mwelekeo tawala wa hali ya kupitwa na wakati miaka ya 1990 kutokana na ujio wa tarakilishi binafsi zilizokuwa na GUI.
+
+Baada ya mwaka 2000, tarakilishi kiunzikuu nyingi za kisasa kwa kiasi au kabisa polepole zinaondoa ingio maarufu la vituo kwa watumiaji wa mwisho kufadhili kipengee cha watumiaji cha mtindo wa webu.
+
+Kihistoria, tarakilishi kiunzikuu zilipata sehemu ya jina lake sababu ya ukubwa wake wa msingi, na kwa sababu ya mahitaji muhimu ya upashaji joto, upitishaji hewa safi, na uyoyozaji hewa (HVAC), na nguvu ya umeme; kimsingi imejiweka kama “mfumo mkuu” wa muundo msingi uliokusudiwa.
+
+Mahitaji ya sanifu za muundo msingi wa juu kwa haraka sana yalipungua kati kati ya miaka ya 1990, kwa sanifu za tarakilishi kiunzikuu zenye CMOS kuchukua nafasi ya teknolojia ya zamani ya bipolar. IBM ilidai kwamba tarakilishi kiunzikuu zake mpya zinaweza kupunguza gharama ya nishati kwa ajili ya nguvu na upoozeshaji kwa vituo vya data, na pia zinaweza kupunguza mahitaji ya nafasi halisi zikilinganishwa na server farms.
+
+Sifa
+
+Ndani ya Tarakilishi kiunzikuu IBM System Z9
+Tarakilishi kiunzikuu za kisasa zinaweza kutumia namna nyingi tofauti za mifumo tendaji kwa pamoja. Hii mbinu ya mitambo ya kweli lakini si bayana inawezesha vitumika kutumika kama vile vipo kwenye taralikishi asili dhahiri. Katika dhima hii, kiunzikuu moja inaweza kuchukua nafasi ya huduma za vifaa tendaji vya hali ya juu na kuwa seva za kawaida.
+
+Wakati tarakilishi kiunzikuu zinaasisi uwezo huu, zile hali zisizo bayana zinapatikana katika familia nyingi za mifumo ya tarakilishi, ingawa si moja kwa moja katika kiwango sawa au usawa wa usasa.
+
+Tarakilishi iunzikuu zinaweza kuongeza au kufanyia mbadiliko moto uwezo wa mfumo bila kuvuruga utendaji wa mfumo, kwa udhahiri na uchembe wa viwango vya kisasa ambavyo si kawaida kupatikana kwenye tatuzi nyingi za seva. Tarakilishi viunzikuu za kisasa zikitambulisha IBM zSeries, seva za System z9 na System z10, zinatoa viwango viwili vya kweli isiyo bayana; migawanyo mantiki (LIPARs, kupitia nyenzo PR/SM) na mitambo isiyo bayana (kupitia mfumo tendaji Z/VM).
+
+Wateja wengi wa Viunzikuu wanatumia mashine mbili, moja katika vituo data vyao vya msingi, na moja katika vituo data vya kutunzia nakili za kumbukumbu – kwa utendaji mzima, utendaji kiasi, au inayosubiria – kama ikitokea balaa itakayoathiri mjengo wa kwanza, jaribio, maendeleo, mafunzo, na kazi za uzalishaji wa vitumika na kanzidata zinazoweza kutumika kwenye mashine moja, isipokuwa kwa mahitaji makubwa sana ambapo uwezo wa mashine moja unaweza ukawa na mpaka.
+
+Uwekaji kama huu wa Viunzikuu mbili unaweza kusaidia huduma za kibiashara endelevu, ukizuia kwa pamoja uhaba uliopangwa na ambao haukupangwa. Kiutendaji wateja wengi wanatumia Viunzikuu nyingi zilizounganishwa eidha kwa Sysplex sambamba na kushirikiana na DASD (katika mtazamo wa IBM), au kwa kushirikiana vihifadhi data vilivyo mbali kieneo vitolewavyo na EMC au Hitachi.
+
+Viunzikuu zimeundwa kushughulika na wingi mkubwa wa input na output (I/O), na kutia mkazo mchakato wa kazi. Tangu mwishoni mwa miaka ya 1950, miundo ya Viunzikuu iliwekewa vifaa saidizi (vilivyoitwa mikanda au vichakata vya kiungoni) ambavyo vilisimamia vifaa vya I/O, vikiiacha huru CPU ihusike tu na vitunza kumbukumbu vyenye kasi kubwa.
+
+Ni kawaida kwenye maduka ya Kiunzikuu kuhusika na kanzidata kubwa na mafaili. Mafaili yenye ukubwa wa Gigabyte mpaka terabyte si yasiyo ya kawaida. Ikilinganishwa na tarakilishi binafsi (PC), kwa kawaida Viunzikuu zina mara mia kwa maelfu ya vitunza data vitumikavyo, na vinaweza kufikiwa kwa kasi. Familia nyingine za seva pia zinapunguza kazi za I/O na kutilia mkazo mchakato wa kazi.
+
+Mainframe return on investment (ROI), kama jukwaa lingine lolote la mchakato, ni tegemezi katika uwezo wake wa kupima, kuhimili kazi michanganyiko, upunguzaji gharama za leba, ufikishaji huduma usiopingika kwa matumizi muhimu ya kibiashara, na vipengele vingine kadhaa vya gharama vilivyopunguzwa hatari.
+
+Mini Computers
+Aina hizi za kompyuta zilidhihiri katika kipindi cha miaka ya 1960. Ni kompyuta zenye umbile dogo kuliko zile zilizotangulia kutajwa, na ni bora kwa kuunganishia kompyuta nyingine zinazotumika viwandani na ndani ya nchi.
+
+Micro Computers
+Aina hii ya kompyuta inakusanya aina zifuatazo:
+
+Kompyuta za Kibinafsi (PCs) ambazo ni maalumu kwa ajili ya matumizi ya mtu mmoja tu.
+
+Home Computers, Portable Computers
+Nazo ni kompyuta za kubeba mkononi, ambazo zimegawanyika katika aina zifuatazo:
+
+1. Laptop.
+2. Notebook.
+3. Palmtop.
+4.Raspberrypi[dead link] ambao ni mtambo mdogo wa Kompyuta
+Matumizi ya kompyuta
+Matumizi ya kompyuta yanatofautiana kutokana na malengo na makusudio ya mtumiaji mwenyewe. Yamegawanyika katika sehemu kuu mbili.
+
+Matumizi ya jumla
+Kuna kompyuta zilizoandaliwa kwa ajili ya matumizi yote ambayo mtumiaji anaweza kutumia kutegemea na malengo yake binafsi, kwa mfano mhasibu anaweza kutumia kompyuta kwa ajili ya kufanyia kazi zake za uhasibu (hesabu). pia mwanasayansi, fundi, mwalimu na mwanafunzi, wote hao wanaweza kutumia kompyuta kwa malengo yao tofauti.
+
+Matumizi maalumu
+Kompyuta hizi zimeandaliwa kwa ajili ya malengo maalumu tu, kama zile kompyuta zilizoandaliwa kwa ajili ya kuchorea moyo na kupigia picha za X-ray, ambazo ni vigumu kwa mtu mwingine kuzitumia kwa ajili ya kufanyia kazi zake binafsi ambazo zinatofautiana na hizo za hospitalini.
+
+Elimu
+Kutokana na kuendelea kwa elimu ya teknolojia imetusaidia sana kujifunza mambo mbalimbali kupitia kompyuta, ambapo unaweza kuitumia kwa ajili ya kuuliza maswali na kujibiwa kwa haraka tena kwa njia tofauti, kwa ajili ya kufanya majadiliano ya kielimu, pia unaweza kuandaa vipindi mbalimbali vya masomo na kufundishia elimu tofauti.
+
+Pia unaweza kuonyeshea filamu zenye mafundisho mazuri, kama kuonyesha filamu zenye elimu ya jiografia na sayansi ya mifugo na kilimo, kuonyesha sehemu muhimu za nchi, kuonyesha athari za nchi ambazo ndiyo sehemu kuu zinazoleta fedha za kigeni katika nchi, na kuonyesha picha za maendeleo katika sekta mbali mbali za nchi yetu, pia kuonyeshea mila na tamaduni za taifa na mataifa mengine mbalimbali duniani na kadhalika.
+
+Kompyuta pia hutumika kusomea vitabu mbalimbali kwa kutumia mtandao.
+
+Michezo
+Kompyuta zimeandaliwa ndani yake programu mbalimbali zenye michezo tofauti, ambayo inaweza kutumika na watu kulingana na umri wao, na ambayo inajulikana kama moja ya kazi za kukuza kipaji na kuchangamsha akili, na ni sehemu mojawapo ya kuburudisha nafsi.
+
+Ufundi
+Kompyuta zinaweza kutumika kwa ajili ya kufanyia kazi za ufundi, kama kuchora ramani ya nyumba na mazingira ya nje ya nyumba, kutengenezea picha kwa kuibadilisha na kuiremba na kuifanya ionekane katika sura nyengine ambayo ni tofauti na ile ya asili.
+
+Mawasiliano
+Kompyuta inaweza kutumika kwa ajili ya kufanyia mawasiliano kupitia mtandao wa (Internet) ambao leo hii ndiyo umeshika nafasi kubwa sana ya mawasiliano kuliko kitu chengine ulimwenguni, kama kuwasiliana kwa kutumiana ujumbe wa barua pepe (E-mail) ambayo ni rahisi na inafika haraka kuliko barua za kupitia posta, pia kwa kutumia barua pepe hakuna haja ya kufikiria sehemu aliko mtu America au bara hindi au sehemu nyingine duniani, kuwasiliana kwa maneno ya maandishi (chat), pia kuwasiliana kwa maneno ya sauti na kuonekana picha (video chat).
+
+Usafirishaji
+Kwa kutumia kompyuta unaweza kuendeshea kazi za usafirishaji katika vituo vikuu vya usafirishaji, kama usafiri wa ardhini (mabasi, metro na treni), usafiri wa majini (meli), na usafiri wa angani (ndege).
+
+Matumizi ya kiwandani
+Kama kuendeshea mashine viwandani kwa ajili ya kuzalisha bidhaa mbali mbali, kama kutengenezea magari, kuzalishia umeme na kutengenezea bidhaa nyengine za kawaida kama nguo mazulia na kadhalika.
+
+Kompyuta hizi zina utofauti kidogo na zile nyingine hasa kwa sababu huwazimebuniwa na kuundwa kufanya operesheni fulani kulingana na kiwanda na zina uwezo wa kufanya kazi kwa mazingira magumu kuliko kompyuta ya kawaida kama vile mazingira yenye joto, vumbi, kemikali, mvuke, au baridi zaidi.
+
+Matumizi ya benki
+Kama ilivyokuwa ada na kawaida hivi sasa kutumia kompyuta kwa ajili ya kuendeshea kazi za benki,kwa ajili kurahisisha kazi za mahesabu.
+
+Matibabu
+Kompyuta zimekuwa na matumizi makubwa na muhimu sana katika kufanyia uchunguzi na matibabu hospitalini, kama kuchunguza na kuelekeza dawa ya kutibu ugonjwa uliyoonekana, pia kupimia na kujaribia mimba na kutoa maelekezo kuhusiana na siku na tarehe ya kujifungua.
+
+Kompyuta imegawanyika katika sehemu kuu mbili
+Sehemu zinazoshikika (Hardware)
+Sehemu zinazoshikika (Hardware), ni aina zote za vifaa vya kompyuta, navyo vimegawanyika katika sehemu kuu tatu.
+
+Vifaa vya kuingizia vitu (Input devices)
+Baobonye (pia: kibodi (keyboard)
+Puku] au Kipanya (Mouse)
+Skana (Scanner)
+Mikrofoni (Microphone)
+Kamera (Camera)
+Baobonya / Kibodi (keyboard)
+Kibodi inatumika kwa ajili ya kuingizia herufi, namba, alama na michoro, nayo imegawanyika katika sehemu kuu nne, nazo ni kama ifuatavyo: Funguo za kuandikia (Typewriter keys), funguo za kuhama (Movement keys), funguo za namba pamoja na michoro mingine (Numeric keys) na funguo za kazi Function keys).
+
+Jedwali linaloonyesha funguo na kazi zake
+Jina la funguo Kazi yake
+
+Kibonyezo (cha) nyumbani ‘home key' Inatumika kwa ajili ya kuhamia mwanzo wa mstari End Inatumika kwa ajili ya kuhamia mwisho wa mstari.
+
+Inatumika kwa ajili ya kuhamia juu ya mstari.
+
+Inatumika kwa ajili ya kuhamia upande wa kushoto mwa mstari.
+
+Inatumika kwa ajili ya kuhamia upande wa kulia mwa mstari.
+
+Inatumika kwa ajili ya kuhamia chini ya mstari.
+
+kibonyezo (cha) ukurasa uliotangulia Inatumika kwa ajili ya kuhamia juu ya mstari.
+
+Kibonyezo (cha) ukurasa unaofuata Inatumika kwa ajili ya kuhamia chini ya mstari.
+
+Kibonyezo (cha) mahesabu ‘numeral key’ Inatumika kwa ajili ya kufunga na kufungulia namba na michoro.
+
+Kibonyezo (cha) herufi kubwa ‘caps lock’ Inatumika kwa ajili ya kufunga na kufungulia.
+
+Kibonyezo (cha) kuendelea ‘enter key’ Inatumika kwa ajili ya kutekeleza amri, au kuanzisha fungu la maneno kwenye ukurasa..
+
+Kibonyezo (cha) kufutia ‘delete key’ Inatumika kwa ajili ya kufuta herufi ya mbele yake.
+
+Kibonyezo (cha) kirejeshi ‘back space’ Inatumika kwa ajili ya kufuta herufi ya nyuma yake.
+
+Kibonyezo (cha) nafasi ‘space bar’ Inatumika kwa ajili ya kuweka masafa kati ya maneno.
+
+Kibonyezo (cha) kiepushi ‘escape key’ Inatumika kwa ajili ya kuacha kutekeleza amri.
+
+Kibonyezo (cha) mpangilio ‘tab key’ Inatumika kwa ajili ya kuwacha masafa maalumu tofauti na ya kawaida (Normal).
+
+Kibonyezo (cha) kudhibiti ‘control key’ inatumika daima pamoja na ufunguo mwengine kwa ajili ya kutekeleza amri maalumu.
+
+Kibonyezo (cha) kibadalishi ‘alt(ernate) key’ inatumika daima pamoja na ufunguo mwengine kwa ajili ya kutekeleza amri maalumu.
+
+Kibonyezo (cha) kuhama ‘shift key’ inatumika daima pamoja na ufunguo mwengine kwa ajili ya kutekeleza amri maalumu.
+
+Alt-Shift Inatumika kwa ajili ya kubadilishia lugha.
+
+Ctrl-Shift Inatumika kwa ajili ya kubadilishia mwelekeo ndani ya ukurasa (kulia au kushoto)
+
+Print screen Inatumika kwa ajili ya kupiga picha kitu chochote kwenye kompyuta.
+
+Ctrl-Alt-Del Inatumika kwa ajili ya kuwasha upya kompyuta.
+
+Kipanya (Mouse)
+Kuna vitufe viwili kwenye kila mausi, kitufe cha upande wa kushoto (Left click) kinatumika kufungulia windozi, programu na kuchagulia maandishi, maneno na picha, na kitufe cha upande wa kulia (Right click) kinatumika kufungulia orodha ya mapendekezo ya kazi.
+
+Skana (scanner)
+Skana inatumika kwa ajili ya kuingizia picha ndani ya kompyuta. Na kitu chochote kile kinachoingia ndani ya kompyuta kwa njia ya skana kinapewa sifa ya picha.
+
+Mikrofoni (microphone)
+Makrofoni inatumika kwa ajili ya kuingizia sauti ndani ya kompyuta.
+
+Kamera (camera)
+Kamera inatumika kwa ajili ya kupigia picha na kuingiza ndani ya kompyuta.
+
+Vifaa vya kutolea vitu (Output devices)
+Skrini (screen)
+Skrini inatumika kwa ajili ya kuonyeshea matokeo ya vitu vilivyofanyika ndani ya kompyuta.
+
+Kipaza sauti (speaker)
+Kipaza sauti kinatumika kwa ajili ya kutolea sauti kutoka ndani ya kompyuta.
+
+Printa au kichapishi (printer)
+Printa inatumika kwa ajili ya kutolea vitu vya maandishi au picha kwenye kompyuta kwa njia ya karatasi (kuchapisha).
+
+Plota (ploter)
+Plota ni chombo kinachotumika kwa ajili ya kutolea vitu, ambacho kinafanana na printa katika ufanisi wake wa kazi, lakini umbile lake ni kubwa kuliko printa, na kinatumika kwa ajili ya kuchapishia picha na michoro ya kiufundi, pia kinaweza kutumika kwa ajili ya kuchapisha maandishi kama herufi namba na alama.
+
+Kadi ya sauti
+
+Kadi ya sauti ni sehemu ya tarakilishi inayotoa sauti katika kipazasauti cha tarakilishi.
+
+Kadi ya mtandao
+
+Kadi ya mtandao ni sehemu ya tarakilishi inayoruhusu kutumia intaneti.
+
+Kadi mchoro
+
+Kadi mchoro ni sehemu ya tarakilishi inayotoa picha katika kiwambi cha tarakilishi.
+
+Sehemu zisizoshikika (Software)
+Kompyuta haiwezi kufanya kazi mpaka kipatikane kitu kinachoitwa software, ambacho kinawakilisha programu zinazoendesha kompyuta. Programu hizo zimegawanyika katika sehemu kuu mbili:
+
+1. Programu za kuendeshea kompyuta (operating systems): programu hizo zinaitwa Windows, na kuna aina nyingi za Windows kulingana na toleo lake na ubora wake, kwani siku zinavyozidi kwenda mbele ndipo tunapozidi kupokea programu nyingine za Windows zenye ubora zaidi kuliko zile za awali.
+
+2. Programu za kufanyia kazi (application systems), nazo ni: Microsoft Office na Graphics design; programu hizo daima zinafanya kazi ndani ya windows, ambazo zinatumika kwa ajili ya kazi mbalimbali za uandishi na hesabu, na kazi nyinginezo za kuunda na kutengeneza picha n.k.
+
+Vifaa vya kuendeshea vifaa vya kuingizia na kutolea vitu:
+Vifaa hivi vipo ndani ya chombo kiitwacho C.P.U. (kifupi cha Central Processing Unit), ambacho ni kiini cha kompyuta na ndicho kinachofanya kazi ya kuviendesha vifaa vyote vya kompyuta na kutoa maelekezo yote.
+
+C.P.U. ni sehemu kuu ya nguvu ya kompyuta, au kitovu cha kompyuta. Kazi za C.P.U. ni:
+
+Kutawala (Control)
+Ndani ya madhabodi (Motherboard) kinapatikana kifaa kinachoitwa Bios (kifupi cha Basic Input Output System), ambacho ndicho kinachofanya kazi ya kuviendesha vifaa vya kuingizia na kutolea vitu. Ni vigumu kufuta au kurekebisha vitu vilivyomo ndani ya kifaa hicho kwani vinazingatiwa ni vitu vya kusomea tu na si kwa kazi nyingine.
+
+Akili na mahesabu (arithmetic logical)
+Kazi za mahesabu ni kazi zote zinazofanywa na hesabu, kama vile kutoa, kujumlisha, kuzidisha na kugawanya.
+
+Kuanza kutumia Windows
+Kabla hujaanza kutumia Windows unatakiwa kufanya mambo yafuatayo:
+
+1. Kuhakikisha waya wa umeme umeshaunganishwa kwenye kompyuta yako.
+2. Kufungua kompyuta kwa kutumia sehemu inayoitwa power.
+3. Kusubiri mpaka idhihiri sehemu inayoitwa desktop.
+Bei ya tarakilishi
+Hakuna bei haswa ya tarakilishi. Bei huenda ikawa juu au chini kulingana na aina (model), uwezo wa kuhifadhi data, ukubwa wa diski, ukubwa wa RAM, spidi ya procesa na programu ambayo kompyuta yaweza kuzitumia.[7]
